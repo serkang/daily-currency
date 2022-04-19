@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Currency.API", "Currency.API\Currency.API.csproj", "{A2C94D5D-6B4E-49A2-87D5-6E61761AAA2A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Currency.Helper", "Currency.Helper\Currency.Helper.csproj", "{DEC0FC69-4387-4E78-9F00-A3B8E57ECC5B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NtvFinanceWidget", "NtvFinanceWidget\NtvFinanceWidget.csproj", "{D0AD61AC-4122-4E89-BAAC-4AB69DF0F371}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2C94D5D-6B4E-49A2-87D5-6E61761AAA2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2C94D5D-6B4E-49A2-87D5-6E61761AAA2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2C94D5D-6B4E-49A2-87D5-6E61761AAA2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2C94D5D-6B4E-49A2-87D5-6E61761AAA2A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DEC0FC69-4387-4E78-9F00-A3B8E57ECC5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEC0FC69-4387-4E78-9F00-A3B8E57ECC5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEC0FC69-4387-4E78-9F00-A3B8E57ECC5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEC0FC69-4387-4E78-9F00-A3B8E57ECC5B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0AD61AC-4122-4E89-BAAC-4AB69DF0F371}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0AD61AC-4122-4E89-BAAC-4AB69DF0F371}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0AD61AC-4122-4E89-BAAC-4AB69DF0F371}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0AD61AC-4122-4E89-BAAC-4AB69DF0F371}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2C3B986B-6028-40BF-8981-623992C2F19A}
+	EndGlobalSection
+EndGlobal
